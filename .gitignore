@@ -1,0 +1,17 @@
+
+```text
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.db
+*.pid
+.vira_adblocker/
+
+# Termux / Linux
+*.swp
+*.swo
+*~
+.DS_Store
+```
